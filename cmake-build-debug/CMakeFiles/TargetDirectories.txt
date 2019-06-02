@@ -1,0 +1,3 @@
+D:/University/CLion Projects/Task4Lab/cmake-build-debug/CMakeFiles/Task4Lab.dir
+D:/University/CLion Projects/Task4Lab/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/University/CLion Projects/Task4Lab/cmake-build-debug/CMakeFiles/rebuild_cache.dir
